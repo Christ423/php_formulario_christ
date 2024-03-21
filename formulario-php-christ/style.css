@@ -1,0 +1,63 @@
+
+body {
+    background-image: url(https://marketplace.canva.com/EAEK4dC2olw/1/0/1600w/canva-arco%C3%ADris-gradiente-rosa-y-naranja-fondo-virtual-c3PYha1JI9M.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+    margin: 0;
+    text-align: center;
+    font-family: century gothic;
+}
+
+
+form {
+
+	padding: 50px 30px;
+	margin: calc(10% + 90px);
+	margin-top: 70px;
+	padding-top: 18px;
+	margin-bottom: 30px;
+    border: 2px solid #ff0055; 
+}
+
+h1 {
+    margin-right: 1px;
+	text-align: center;
+	padding: 10px;
+	color: #444
+}
+
+input {
+	width: 50%;
+	padding: 9px;
+	margin: auto;
+	margin-top: 12px;
+	font-size: 16px;
+    border-radius: 5px;
+
+}
+input[type='submit']{
+	background-color: #48e;
+	color: #fff;
+	width: calc(80% - 20px);
+	margin: 0 10%;
+	margin-top: 22px;
+	border: none;
+}
+.ok {
+	text-align: center;
+	width: 50%;
+	padding: 12px;
+	background-color: rgb(0, 249, 100);
+	color: #fff;
+    margin-left: 300px;
+}
+.bad {
+	text-align: center;
+	width: 50%;
+	padding: 12px;
+	background-color: #a22;
+	color: #fff;
+    margin-left: 300px;
+}
+
